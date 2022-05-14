@@ -1,4 +1,4 @@
-# Producr Landing Page
+# Product Landing Page
 
 ### ![Project Image Site]
 https://codepen.io/daniel-williams-ux/full/QWaRQXG
